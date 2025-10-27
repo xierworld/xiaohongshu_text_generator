@@ -6,4 +6,4 @@
 <br>prompt的设置也是必不可少的</br>
 
 # 启动应用
-可以在main.py文件的终端下输入streamlit run main.py，也可以在(https://share.streamlit.io/)上部署应用
+可以在main.py文件的终端下输入streamlit run main.py，也可以在[share](https://share.streamlit.io/)上部署应用
